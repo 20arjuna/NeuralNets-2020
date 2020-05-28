@@ -1,0 +1,11 @@
+Number of Input Nodes: 2
+Number of Hidden Layers: 2
+Number of Nodes in Each Hidden Layer: 4,6
+Number of Output Nodes: 3
+Number of Test Cases: 4
+Learning Factor: 5
+Learning Factor Multiplier: 1
+Maximum Number of Iterations: 10000
+Minimum Error Threshold: 0.001
+Learning Factor Threshold: 0.0
+Print When Iteration Number is Divisible By: 100000
